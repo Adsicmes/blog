@@ -20,9 +20,9 @@ export const siteConfig: SiteConfig = {
 		src: "/Konachan.com - 398670 sample.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
-			enable: false, // Display the credit text of the banner image
-			text: "", // Credit text to be displayed
-			url: "", // (Optional) URL link to the original artwork or artist's page
+			enable: true, // Display the credit text of the banner image
+			text: "konachan.net", // Credit text to be displayed
+			url: "https://konachan.net/post/show/398670/2girls-braids-brown_eyes-brown_hair-fang-gloves-gr", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
