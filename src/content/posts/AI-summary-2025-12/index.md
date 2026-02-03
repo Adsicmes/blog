@@ -58,7 +58,7 @@ Qoder 重度使用一个月后，有朋友用上了 Claude Code，我也想试�
 - **Claude Code + 三方中转站**：Claude Code 20 刀套餐不够用，Max 套餐 100 刀起步，超出预算，于是找了便宜的三方中转，比如 [88code](https://www.88code.ai/)（包月，但赶上高峰期服务器炸了用不了）、[Packy API](https://www.packyapi.com/)（按量）。在 Codex 和 Claude Code 搭配下，重度使用可以把预算控制在 400 以内
 - **开源编程工具**：对平价三方 API 中转支持不算友好，但配置得当可以把预算压得很低且效果不错。推荐：
   - Aider
-  - Opencode
+  - OpenCode
   - Zen：非 VSCodium 衍生
   - Pear AI：Void Editor 停更后的替代，在积极维护
   - Void Editor：已四个月未更新
