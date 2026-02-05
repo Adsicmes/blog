@@ -76,6 +76,11 @@ export const friendLinksConfig: FriendLinksConfig = {
 			name: "Remik1r3n Blog",
 			url: "https://blog.remiki.ren/",
 			description: "瑞米，大学期间打舞萌认识的朋友，究极死板理工男"
+		},
+		{
+			name: ">·圍笑就是山貓貓·<",
+			url: "https://sssssmilewei.github.io/",
+			description: "大学期间打舞萌认识的朋友，超级会哄人呜呜呜。"
 		}
 	],
 };
