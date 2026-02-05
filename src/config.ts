@@ -75,7 +75,7 @@ export const friendLinksConfig: FriendLinksConfig = {
 		{
 			name: "Remik1r3n Blog",
 			url: "https://blog.remiki.ren/",
-			description: "瑞米，大学期间打舞萌认识的朋友，一起开了私人音游窝。究极死板理工男高中生(2025)",
+			description: "瑞米，大学期间打舞萌认识的朋友，一起开了私人音游窝。究极死板理工男",
 		}
 	],
 };
