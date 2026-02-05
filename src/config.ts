@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "FrZの垃圾桶",
-	subtitle: "Oh my god, 写博客好麻烦",
+	title: "我瞎写的来看什么？",
+	subtitle: "别看了别看了 o((>ω< ))o",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 0, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
