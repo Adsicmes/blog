@@ -72,6 +72,11 @@ export const friendLinksConfig: FriendLinksConfig = {
 			url: "https://space.bilibili.com/13481949",
 			description: "osu认识的网友。不是day为什么让我挂个b站链接啊？",
 		},
+		{
+			name: "Remik1r3n Blog",
+			url: "https://blog.remiki.ren/",
+			description: "瑞米，大学期间打舞萌认识的朋友，一起开了私人音游窝。究极死板理工男高中生(2025)",
+		}
 	],
 };
 
