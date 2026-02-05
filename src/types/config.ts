@@ -48,7 +48,18 @@ export enum LinkPreset {
 	Home = 0,
 	Archive = 1,
 	About = 2,
+	Links = 3,
 }
+
+export type FriendLink = {
+	name: string;
+	url: string;
+	description?: string;
+};
+
+export type FriendLinksConfig = {
+	links: FriendLink[];
+};
 
 export type NavBarLink = {
 	name: string;

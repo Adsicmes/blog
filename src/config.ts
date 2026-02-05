@@ -1,5 +1,6 @@
 import type {
 	ExpressiveCodeConfig,
+	FriendLinksConfig,
 	LicenseConfig,
 	NavBarConfig,
 	ProfileConfig,
@@ -44,10 +45,32 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
+		LinkPreset.Links,
 		{
 			name: "GitHub",
 			url: "https://github.com/Adsicmes", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
+		},
+	],
+};
+
+export const friendLinksConfig: FriendLinksConfig = {
+	links: [
+		// 在此添加友链，例如：
+		// { name: "示例博客", url: "https://example.com", description: "一段简短描述" },
+		{
+			name: "imwqqA",
+			url: "https://www.imwqqa.com/",
+			description: "frz的大学好友，一个数学和算法痴，想做游戏图形算法",
+		},
+		{
+			name: "Usagi no Niku",
+			url: "https://turou.fun/",
+			description: "兔肉的随笔，打osu认识的网友，舞萌吃程序员一个",
+		},{
+			name: "DAYGood_Time",
+			url: "https://space.bilibili.com/13481949",
+			description: "osu认识的网友。不是day为什么让我挂个b站链接啊？",
 		},
 	],
 };
