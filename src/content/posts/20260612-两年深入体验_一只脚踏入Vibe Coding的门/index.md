@@ -1,6 +1,7 @@
 ---
 title: 两年深入体验，一只脚踏入Vibe Coding的门
 published: 2026-06-12
+updated: 2026-06-26
 description: "分享一下到目前为止，自己对于vibe coding的一点理解"
 # image: "./cover.jpeg"
 tags: ["AI", "经验分享"]
