@@ -3,8 +3,8 @@ title: 2026.02 AI 编程工具使用分享
 published: 2026-03-02
 description: "分享 2026.02 的 AI 工具使用重心：Cursor Skill、Oh My OpenCode 二月更新、AstrBot 上的实践，以及自主 Agent（如 OpenClaw）的尝鲜与现状判断。"
 # image: "./cover.jpeg"
-tags: ["AI", "经验分享"]
-category: 经验分享
+tags: ["AI", "Skill", "MCP", "Agent", "Oh My OpenCode"]
+category: AI 工具体验
 draft: false
 ---
 

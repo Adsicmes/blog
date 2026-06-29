@@ -3,8 +3,8 @@ title: 2025.12 AI 编程工具使用分享
 published: 2025-12-25
 description: "个人使用 Cursor、Qoder、Kiro、Claude Code 等 AI 编程工具的经历与心得，以及模型评价与使用技巧"
 # image: "./cover.jpeg"
-tags: ["AI", "经验分享"]
-category: 经验分享
+tags: ["AI", "工具评测", "Cursor", "Claude", "Qoder"]
+category: AI 工具体验
 draft: false
 ---
 

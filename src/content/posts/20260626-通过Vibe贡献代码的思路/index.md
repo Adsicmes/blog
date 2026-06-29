@@ -4,8 +4,8 @@ published: 2026-06-26
 # updated: 2026-06-26
 description: "分享如何在不熟悉编程语言的情况下，通过 AI Agent 完成代码贡献的完整工作流程。从项目分析、需求沟通、文档生成，到代码实现、测试与提交，探讨利用 Vibe Coding 提升开发效率的实践思路与经验。"
 # image: "./cover.jpeg"
-tags: ["AI", "经验分享"]
-category: 经验分享
+tags: ["Vibe Coding", "AI", "工作流", "Dev Container"]
+category: Vibe Coding
 draft: false
 ---
 # 通过 Vibe 贡献代码的思路

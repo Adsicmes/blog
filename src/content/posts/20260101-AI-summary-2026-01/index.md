@@ -3,8 +3,8 @@ title: 2026.01 AI 编程工具使用分享
 published: 2026-02-02
 description: "分享 2026.01 的 AI 工具折腾经历：从 Qoder 转向 Cursor 与 OpenCode + OMO 组合，探讨 Web 逆向实战，以及如何优化工作流来提升效能。"
 # image: "./cover.jpeg"
-tags: ["AI", "经验分享"]
-category: 经验分享
+tags: ["AI", "工具评测", "OpenCode", "Cursor", "Web逆向"]
+category: AI 工具体验
 draft: false
 ---
 

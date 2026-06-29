@@ -3,8 +3,8 @@ title: 交易猫 jym_umidToken 实验性逆向获取
 published: 2026-02-02
 description: "交易猫 jym_umidToken 实验性逆向获取"
 # image: "./cover.jpeg"
-tags: ["web逆向"]
-category: 逆向
+tags: ["Web逆向", "JavaScript", "浏览器指纹", "交易猫"]
+category: 逆向工程
 draft: false
 ---
 
