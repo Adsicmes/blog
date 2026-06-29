@@ -6,6 +6,8 @@ description: ""
 # image: "./cover.jpeg"
 tags: ["AI", "经验分享"]
 category: 经验分享
-draft: false
+draft: true
 ---
 # AI时代，我向公司repo贡献代码的全流程
+
+作为一只脚踏入vibe coding大门的
